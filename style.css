@@ -3,3 +3,8 @@
   height: none;
   border-raddiun: 14px;
 }
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
