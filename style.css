@@ -1,7 +1,7 @@
 .perfil {
   width: 150px;
-  height: none;
-  border-raddiun: 14px;
+  height: auto;
+  border-radiun: 100px;
 }
 .card{
   display: flex;
