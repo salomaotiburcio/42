@@ -1,6 +1,7 @@
 button {
   cursor: pointer;
   padding: 16px;
+  max-width: 150px;
 }
 
 .perfil {
@@ -16,4 +17,5 @@ button {
   padding: 20px;
   border: 2px solid #000;
   border-radiun: 14px;
+  max-width: 300px;
 }
