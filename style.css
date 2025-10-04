@@ -4,9 +4,12 @@ body, html {
 }
 
 button {
+  background: #D8BFD8;
+  color: #000000;
   cursor: pointer;
   padding: 16px;
   width: 150px;
+  border: none;
   border-radius: 8px;
 }
 
@@ -29,7 +32,7 @@ button {
   align-items: center;
   margin: 10px;
   padding: 20px;
-  border: 2px solid #000;
+  border: 2px solid #4B0082;
   border-radius: 14px;
   max-width: 300px;
 }
