@@ -1,10 +1,11 @@
 .perfil {
   width: 150px;
   height: auto;
-  border-radiun: 100px;
+  /*border-radiun: 100px;*/
 }
 .card {
   display: flex;
+  flex-direction: colunm;
   justify-content: center;
   align-items: center;
   margin: 10px;
