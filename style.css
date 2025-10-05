@@ -9,7 +9,7 @@ h1 {
 
 button {
   background: linear-gradient(135deg, #4B0082, #D8BFD8);
-  color: #ffffff;
+  color: linear-gradient(90deg, #D8BFD8, #4B0082);
   cursor: pointer;
   padding: 16px;
   width: 150px;
