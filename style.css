@@ -8,12 +8,12 @@ h1 {
 }
 
 button {
-  background: linear-gradient(135deg, #4B0082, #D8BFD8);
-  color: #990099;
+  background: #4B0082;
+  color: #ffffff;
   cursor: pointer;
   padding: 16px;
   width: 150px;
-  border: 2px solid #4B0082;
+  border: 2px solid #D8BFD8;
   border-radius: 8px;
   font-size: 14px;
   font-weight: bold;
